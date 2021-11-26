@@ -1,0 +1,42 @@
+.container {
+    position : absolute;
+    left : 32em;
+    top : 10em;
+    border: 2px solid gray;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    bottom: 17em;
+    width :auto;
+    height: auto;
+    box-shadow: 5px 10px 8px #888888;
+
+}
+
+button {
+    border-radius: 10px;
+    background-color: purple;
+    width: 100px;
+    color: white;
+    opacity: o.8;
+
+}
+button:hover{
+    border: 2px solid;
+}
+#login-head {
+    padding: 6px;
+    /* background-color: plum;
+    border-radius: 10px 10px 0px 0px; */
+    
+}
+#contents {
+    padding: 15px;
+    padding-bottom: 3px;
+}
+.todolist{
+    position: absolute;
+    left : 15em;
+    top : 9em
+}
+
